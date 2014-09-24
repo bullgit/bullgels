@@ -12,7 +12,7 @@ And to help you to live a better life, we've created **Bullgels** ! Your own git
 
 Well, it's so simple ! 
 - Download bullgels.js
-- Add a `<script src="path/to/bullgels.js></script>` right before the closing `</body>` tag. 
+- Add a `<script src="path/to/bullgels.js"></script>` right before the closing `</body>` tag. 
 
 Thats it. You'll see a gitch angel on the top right corner of your page, and you'll feel so awesome. 
 
