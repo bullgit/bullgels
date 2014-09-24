@@ -15,3 +15,8 @@ Well, it's so simple !
 - Add a `<script src="path/to/bullgels.js></script>` right before the closing `</body>` tag. 
 
 Thats it. You'll see a gitch angel on the top right corner of your page, and you'll feel so awesome. 
+
+## Result 
+![](http://puu.sh/bMnjZ/f0863d313c.png)
+![](http://puu.sh/bMnq8/ff5d1d432c.png)
+![](http://puu.sh/bMnuc/e6e41a1ab0.png)
